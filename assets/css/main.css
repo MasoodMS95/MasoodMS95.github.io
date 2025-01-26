@@ -2355,11 +2355,11 @@ input, select, textarea {
 
 #profileImage{
   height: 100%;
-  left: 20px;
+  bottom: -55px;
   width: 100%;
   position: relative;
-  object-fit: cover;
-  transform: scale(1.5);
+  object-fit: contain;
+  transform: scale(1.6);
 }
 
 .projectImage{
