@@ -2391,6 +2391,16 @@ input, select, textarea {
   cursor: pointer;
 }
 
+#contact-box{
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+}
+
+#resume-dl{
+  margin-bottom: 40px;
+}
+
 .margin-right{
   margin-right: 10px;
 }
